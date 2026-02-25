@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,gender,hire_date,term_date,department_id,job_id,location_id,manager_id,salary
+1,Ashim,Sharma,M,2022-01-10,,10,101,1,,60000
+2,Rahul,Verma,M,2021-06-01,,20,102,1,1,50000
+3,Neha,Singh,F,2020-03-15,2024-12-31,10,103,2,1,70000
+4,Pooja,Kapoor,F,2023-05-22,,30,101,2,2,55000
+5,Aman,Mehta,M,2019-09-10,,20,104,1,2,90000
